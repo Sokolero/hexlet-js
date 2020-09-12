@@ -8,5 +8,11 @@
     "test": "test"
   },
   "author": "sokolero",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.20"
+  }
 }

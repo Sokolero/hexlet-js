@@ -1,0 +1,12 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "hello-world-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sokolero",
+  "license": "ISC"
+}

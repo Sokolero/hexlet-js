@@ -1,2 +1,2 @@
 # hexlet-js
-hexlet education
+Мой первый проект на Хекслете

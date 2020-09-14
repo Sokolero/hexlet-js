@@ -1,6 +1,6 @@
-var _ = require('lodash');
+// var _ = require('lodash');
 
-// import _ from "lodash";
+import _ from "lodash";
 
 console.log('Первый проект запущен!');
 console.log(_.last(['one', 'two']));
